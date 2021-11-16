@@ -16,7 +16,7 @@ end
 
 2. Add to `Gemfile`:
 ```
-gem "omniauth-ethereum", path: '/Users/nathan/Personal/omniauth-ethereum'
+gem "omniauth-ethereum", path: 'path to your local gem'
 gem "eth", "~> 0.4.16"
 gem 'omniauth-rails_csrf_protection'
 ```
